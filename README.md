@@ -1,8 +1,8 @@
 # capital-rush
-this is a cpital rush game ui for buying selling stocks.
-you can add or remove stocks and stocks move up according to your holding.
+This is a cpital rush game ui for buying selling stocks.
+You can add or remove stocks and stocks move up according to your holding.
 
-all the code and project made to be completely and easily expandable with comments where necessary.
+All the code and project made to be completely and easily expandable with comments where necessary.
 
 script details:
 1) stock_data - holds data for each stock object like name price holdings details it also updates UI according to data on selecting stock and start of the game.
